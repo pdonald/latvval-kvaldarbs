@@ -1,0 +1,9 @@
+C:\Users\Pēteris\Projects\Latvian\Latvian.CD\Pirmkods\Latvian.Tests\bin\Debug\Latvian.Tests.dll
+C:\Users\Pēteris\Projects\Latvian\Latvian.CD\Pirmkods\Latvian.Tests\bin\Debug\Latvian.Tests.pdb
+C:\Users\Pēteris\Projects\Latvian\Latvian.CD\Pirmkods\Latvian.Tests\bin\Debug\Latvian.dll
+C:\Users\Pēteris\Projects\Latvian\Latvian.CD\Pirmkods\Latvian.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Pēteris\Projects\Latvian\Latvian.CD\Pirmkods\Latvian.Tests\bin\Debug\Latvian.pdb
+C:\Users\Pēteris\Projects\Latvian\Latvian.CD\Pirmkods\Latvian.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Pēteris\Projects\Latvian\Latvian.CD\Pirmkods\Latvian.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pēteris\Projects\Latvian\Latvian.CD\Pirmkods\Latvian.Tests\obj\Debug\Latvian.Tests.dll
+C:\Users\Pēteris\Projects\Latvian\Latvian.CD\Pirmkods\Latvian.Tests\obj\Debug\Latvian.Tests.pdb
