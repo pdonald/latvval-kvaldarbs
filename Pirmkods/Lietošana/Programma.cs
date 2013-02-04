@@ -1,16 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using Latvian.Vārdšķiras.Lietvārdi;
+
 using Latvian.Vārdšķiras;
 using Latvian.Vārdšķiras.DarbībasVārdi;
+using Latvian.Vārdšķiras.Lietvārdi;
 
 namespace Lietošana
 {
-    class Program
+    class Programma
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var locījumi = (Locījums[])System.Enum.GetValues(typeof(Locījums));
             var skaitļi = (Skaitlis[])System.Enum.GetValues(typeof(Skaitlis));

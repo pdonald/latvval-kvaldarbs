@@ -1,5 +1,0 @@
-C:\Users\Pēteris\Projects\Latvian\Latvian.CD\Pirmkods\Latvian\bin\Debug\Latvian.dll
-C:\Users\Pēteris\Projects\Latvian\Latvian.CD\Pirmkods\Latvian\bin\Debug\Latvian.pdb
-C:\Users\Pēteris\Projects\Latvian\Latvian.CD\Pirmkods\Latvian\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Pēteris\Projects\Latvian\Latvian.CD\Pirmkods\Latvian\obj\Debug\Latvian.dll
-C:\Users\Pēteris\Projects\Latvian\Latvian.CD\Pirmkods\Latvian\obj\Debug\Latvian.pdb

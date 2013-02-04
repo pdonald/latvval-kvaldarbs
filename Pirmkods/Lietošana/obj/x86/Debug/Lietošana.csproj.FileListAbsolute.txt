@@ -1,7 +1,0 @@
-C:\Users\Pēteris\Projects\Latvian\Latvian.CD\Pirmkods\Lietošana\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Pēteris\Projects\Latvian\Latvian.CD\Pirmkods\Lietošana\bin\Debug\Lietošana.exe
-C:\Users\Pēteris\Projects\Latvian\Latvian.CD\Pirmkods\Lietošana\bin\Debug\Lietošana.pdb
-C:\Users\Pēteris\Projects\Latvian\Latvian.CD\Pirmkods\Lietošana\bin\Debug\Latvian.dll
-C:\Users\Pēteris\Projects\Latvian\Latvian.CD\Pirmkods\Lietošana\bin\Debug\Latvian.pdb
-C:\Users\Pēteris\Projects\Latvian\Latvian.CD\Pirmkods\Lietošana\obj\x86\Debug\Lietošana.exe
-C:\Users\Pēteris\Projects\Latvian\Latvian.CD\Pirmkods\Lietošana\obj\x86\Debug\Lietošana.pdb
