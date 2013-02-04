@@ -1,0 +1,21 @@
+Autortiesības (c) 2011, Pēteris Ņikiforovs
+Visas tiesības aizsargātas.
+
+Pirmkoda un binārās formas izplatīšana un lietošana, ar vai bez izmaiņam,
+ir atļauta, ja tiek izpildīti sekojošie nosacījumi:
+
+1. Izplatītajam pirmkodam ir jāsatur augstāk minētais paziņojums par autortiesībām,
+   šis nosacījumu saraksts un sekojošā atruna.
+2. Izplatītajam materiālam binārā formā ir jāatveido augstāk minētais paziņojums par
+   autortiesībām, šis nosacījumu saraksts un sekojošā atruna dokumentācijā un/vai citos
+   materiālos, kas ir pievienoti izplatītajam materiālam.
+
+AUTORTIESĪBU ĪPAŠNIEKI UN LĪDZSTRĀDNIEKI PIEDĀVĀ ŠO PROGRAMMATŪRU "KĀ IR", BEZ JEBKĀDĀM
+GARANTIJĀM, TIEŠI IZTEIKTĀM VAI ŠĶIETAMĀM, TAJĀ SKAITĀ, BET NE TIKAI, BEZ ŠĶIETAMĀM GARANTIJĀM
+PAR KOMERCIĀLU VĒRTĪBU UN PIEMĒROTĪBU KONKRĒTIEM NOLŪKIEM. NEVIENĀ GADĪJUMĀ AUTORTIESĪBU
+ĪPAŠNIEKI VAI LĪDZSTRĀDNIEKI NAV ATBILDĪGI PAR BOJĀJUMIEM, IESKAITOT JEBKĀDUS TIEŠUS, NETIEŠUS,
+NEJAUŠUS, ĪPAŠUS, VISPĀRĪGUS VAI IZRIETOŠUS BOJĀJUMUS (IESKAITOT, BET NE TIKAI, PREČU VAI SERVISU
+PIEGĀDES AIZSTĀŠANU; LIETOJUMA, DATU VAI IENĀKUMA ZAUDĒJUMUS; UZŅĒMĒJDARBĪBAS PĀRTRAUKŠANU)
+NEATKARĪGI NO IEMESLA VAI TEORIJAS PAR ATBILDĪBU, VIENOŠANĀS, KONTRAKTA, STINGRAS ATBILDĪBAS
+VAI CIVILTIESĪBU PĀRKĀPUMA (TAI SKAITĀ NOLAIDĪBAS VAI CITU IEMESLU DĒĻ), KAS JEBKURĀ VEIDĀ RADUŠIES
+LIETOJOT ŠO PROGRAMMATŪRU, PAT JA ŠĀDU BOJĀJUMU IESPĒJAMĪBA TIKA PAREDZĒTA.
