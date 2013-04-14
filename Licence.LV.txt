@@ -1,7 +1,7 @@
 Autortiesības (c) 2011, Pēteris Ņikiforovs
 Visas tiesības aizsargātas.
 
-Pirmkoda un binārās formas izplatīšana un lietošana, ar vai bez izmaiņam,
+Pirmkoda un binārās formas izplatīšana un lietošana, ar vai bez izmaiņām,
 ir atļauta, ja tiek izpildīti sekojošie nosacījumi:
 
 1. Izplatītajam pirmkodam ir jāsatur augstāk minētais paziņojums par autortiesībām,
